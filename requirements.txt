@@ -1,0 +1,7 @@
+git2net
+pygit2
+GitPython
+pandas
+pathpy2
+matplotlib
+seaborn
