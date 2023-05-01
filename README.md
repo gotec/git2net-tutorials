@@ -21,6 +21,14 @@ In addition, we provide links to the individual tutorial notebooks below:
 Installation instructions for `git2net` as well as all other information regarding its development can be found in the [original development repository](https://github.com/gotec/git2net).
 
 
+## git2net @ MSR 2023
+
+You can find the `git2net` tutorial presented at MSR 2023 here:
+
+| Tutorial | Binder | Google Colab | NBViewer |
+| :---     | :---:    | :---:  | :---: |
+| [`git2net`](https://github.com/gotec/git2net) @ MSR 2023 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gotec/git2net-tutorials/HEAD?labpath=MSR_2023.ipynb) | [![Open Database Tutorial In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gotec/git2net-tutorials/blob/master/MSR_2023.ipynb) | [![NBViewer](https://img.shields.io/badge/View%20on-nbviewer-informational)](https://nbviewer.org/github/gotec/git2net-tutorials/tree/main/MSR_2023.ipynb) |
+
 ## How to cite git2net
 
 ``` 
