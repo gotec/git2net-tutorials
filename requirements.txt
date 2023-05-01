@@ -5,3 +5,4 @@ pandas
 pathpy2
 matplotlib
 seaborn
+networkx
